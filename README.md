@@ -8,8 +8,7 @@
 I'm Jorin a.k.a. [Xorinzor](https://github.com/sponsors/xorinzor). A (hobby) developer / devops engineer from Groningen, The Netherlands. Here you will find some of my projects.
 
 ## Active Projects
- - [Shoutz0r-App](https://github.com/xorinzor/shoutz0r-app) A media voting system perfect for events such as lan-parties!
- - [Shoutz0r-Player](https://github.com/xorinzor/shoutz0r-player) The part of shoutz0r that handles the jukebox and (optional) video streaming (using [Liquidsoap](https://www.liquidsoap.info/))
+ - [Shoutz0r](https://github.com/Shoutz0r) A media voting system perfect for events such as lan-parties!
 
 ## Find me around the web 🌎
 - [Personal Website](https://www.jorinvermeulen.com) 🌐
