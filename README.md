@@ -12,7 +12,7 @@ I'm Jorin a.k.a. [Xorinzor](https://github.com/sponsors/xorinzor). A (hobby) dev
 
 ## Find me around the web 🌎
 - [Personal Website](https://www.jorinvermeulen.com) 🌐
-- [LinkedIn](https://linkedin.com/in/suriyaakudo) 💼
+- [LinkedIn](https://www.linkedin.com/in/jorinvermeulen/) 💼
 
 ----
 
