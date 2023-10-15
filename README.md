@@ -5,7 +5,7 @@
 **xorinzor/xorinzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Jorin a.k.a. [Xorinzor](https://github.com/sponsors/xorinzor). A (hobby) developer / devops engineer from Groningen, The Netherlands. Here you will find some of my projects.
+I'm Jorin a.k.a. [Xorinzor](https://github.com/sponsors/xorinzor); A (hobby)-developer and Site Reliability Engineer at [Warpnet](https://warpnet.nl/). Here you will find some of my projects.
 
 ## Active Projects
  - [Shoutz0r](https://github.com/Shoutz0r) A media voting system perfect for events such as lan-parties!
