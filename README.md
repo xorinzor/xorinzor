@@ -5,9 +5,10 @@
 **xorinzor/xorinzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Jorin a.k.a. [Xorinzor](https://github.com/sponsors/xorinzor); A (hobby)-developer and Site Reliability Engineer at [Warpnet](https://warpnet.nl/). Here you will find some of my projects.
+I'm Jorin a.k.a. Xorinzor; A (hobby)-developer and Site Reliability Engineer at [Warpnet](https://warpnet.nl/). Here you will find some of my projects.
 
 ## Active Projects
+ - [WhatIsMy.Online](https://whatismy.online) A free API that can be used to lookup information such as your IP, Proxy, DNS, etc. If you find this service useful, [consider supporting me](https://github.com/sponsors/xorinzor).
  - [Shoutz0r](https://github.com/Shoutz0r) A media voting system perfect for events such as lan-parties!
 
 ## Find me around the web 🌎
