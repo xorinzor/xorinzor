@@ -7,10 +7,6 @@
 
 I'm Jorin a.k.a. Xorinzor; A (hobby)-developer and Cloud Engineer. Here you will find some of my projects.
 
-## Active Projects
- - [Shoutzor](https://github.com/Shoutzor) A media voting system perfect for events such as lan-parties!
- - [WhatIsMy.Online](https://whatismy.online) A free API that can be used to lookup information such as your IP, Proxy, DNS, etc. (Under development, will be available.. eventually.)
-
 ## Find me around the web 🌎
 - [Personal Website](https://www.jorinvermeulen.com) 🌐
 - [LinkedIn](https://www.linkedin.com/in/jorinvermeulen/) 💼
